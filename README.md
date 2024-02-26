@@ -42,7 +42,7 @@ Js3xxxxFyy_Aq-rOnxMte6vKPV4AAAAA6QwAADgqRBSfcmNqyuG8CQ7JDL7xxxxNGbfF7tPNV5347_AN
 
 #### 1. Fork 源项目
 
-1.  访问 [actions-mtz-coupons](https://github.com/vv314/actions-mtz-coupons) 源仓库
+1.  访问 [actions-mtz-coupons]源仓库
 2.  点击右上角 `Star` 按钮 ;)
 3.  点击右上角 `Fork` 按钮
 
